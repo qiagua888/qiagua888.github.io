@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:17
+#EXTINF:16.046444,
+https://all.proxyi.cn/https://www.iyunying.org/wp-content/uploads/2023/10/2023100712172330.png
+#EXTINF:16.000000,
+https://all.proxyi.cn/https://www.iyunying.org/wp-content/uploads/2023/10/2023100712172441.png
+#EXTINF:16.000000,
+https://all.proxyi.cn/https://www.iyunying.org/wp-content/uploads/2023/10/2023100712172324.png
+#EXTINF:11.566667,
+https://all.proxyi.cn/https://www.iyunying.org/wp-content/uploads/2023/10/2023100712171913.png
+#EXT-X-ENDLIST
